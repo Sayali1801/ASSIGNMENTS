@@ -1,0 +1,32 @@
+Que. 1 What is Emmet?
+ Answer-- With the use of Emmet we can easily create HTML boilerplate.
+
+ Que.2 What is difference between Library and Framework?
+ Answer-- Framework->
+                1. Provides ready to use tools, standards, templates& policies for fast appliocation development.
+                2.Framework controls calling of libraries of our code.
+                3. To leaverage the benefit of a framework, fresh application can be created following guidlines of framework.
+                4.Easy to create & delopy application.
+                5.Help us to develop a software application quickely.
+                6.Framework reduce the complexity of software development process.
+
+                Library->
+                1.Provides reusable function to our code.
+                2.code controls when and where call a library.
+                3.Can be added augment featrures of an existing application.
+                4.Facilitates program binding.
+                5.Help us to resuse software functions.
+                6.Provides reusable software funcationality.
+
+Que.3 What is CDN? Why do we use it?
+            - A Content Delivery Netwwork (CDN) is a network of interconnection servers that speeds up wenpages loading for data heavy application.
+            - CDN can be stand on Content Delivery Netwok or Content Distribution  Netwok.
+            - When a user visit the website, data from that website's server has to travel across the internet to reach the user's computer. If the user is located far from the server, it will take long time to load a fles such as videos, images, CSS, and JS file. Instead website content is stored on CDN servers geographically closer to the user & reaches their computer much faster. 
+            - The purpose of using CDN is to reduce latency, reduce the delay in communication created by network design.
+
+    Que.4 Why React is known as React?
+            -React is called "React", it is a library that reacts to changes in data ans render the user iterface accordingly.
+        
+Que.5 What is Cross origin in script tag?
+            - The Cross origin attribute set the mode of request.
+            - Webpages ofetn make requtes to load resources on other servers, where CORS comes in A Cross- origin request is a request for resources (e.g. stylesheets, images, iframes, font or script) from another domain.
