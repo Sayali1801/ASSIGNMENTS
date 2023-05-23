@@ -1,0 +1,6 @@
+Que. 1 What is Reconciliation in React?
+Answer- Reconciliation is a process by which React updates the User Interface(UI) to react changes in state component
+Que. 2 What is React Fiber?
+Answer- React Fiber is an internal engine change geared to make React faster and smarter.
+Que. 3 Why we need keys in Ract? When do we need keys in React?
+Answer- Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity.

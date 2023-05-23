@@ -1,0 +1,8 @@
+Que 1. What is JSX?
+Answer- JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React.
+Que 2.Superpower of JSX?
+Answer- write logic and markup of a component inside a single
+
+Que 3.Role of type attribute in script tag?
+Answer- The type attribute specifies the type of the script. The type attribute identifies the content between the <script> and </script> tags.
+
